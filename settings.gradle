@@ -1,0 +1,4 @@
+include ':phonenumberspinner'
+include ':app:phonenumberspinner'
+include ':app'
+rootProject.name = "Espresso for UI Testing"
