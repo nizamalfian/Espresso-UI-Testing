@@ -1,3 +1,4 @@
+include ':myrecyclerview'
 include ':scorekeeper'
 include ':phonenumberspinner'
 include ':app:phonenumberspinner'
